@@ -44,15 +44,17 @@ body {
 
 .section-highlight {
     background-color: #33bddb;
-    height: 300px;
+    height: 270px;
     width: 100%;
 }
 
 .section-highlight .box {
     background-color: white;
-    width: 350px;
-    height: 350px;
-    border: 1px solid white;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: -85px;
+    padding: 10px;
 }
 
 .section-highlight .data-content {
@@ -60,56 +62,5 @@ body {
     justify-content: space-between;
 }
 
-.section-highlight .data-content .box {
-    position: relative;
-    top: -75;
-}
 
 
-
-
-
-
-
-
-
-/*
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.container {
-    width: 100%;
-    padding: 2px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.container .card {
-    position: relative;
-    padding: 10px;
-    width: 340px;
-    margin: 15px;
-    border: 1px solid black;
-    text-align:unset;
-    height: 308px;
-}
-
-.button {
-    height: 40px;
-    width: 80px;
-
-}
-
-
-
-
-
-.container-imagens .img {
-    
-}
-*/
