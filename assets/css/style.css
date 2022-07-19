@@ -1,20 +1,26 @@
 * {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 .container {
-    height: 300px;
-    width: 400px;
+    width: 100%;
+    padding: 2px;
     display: flex;
-    justify-content: center;
     align-items: center;
-    border: 1px solid black;
-
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
-.card-1 {
-    margin: 10px;
+.container .card {
+    position: relative;
+    padding: 10px;
+    width: 340px;
+    margin: 15px;
+    border: 1px solid black;
+    text-align:unset;
+    height: 308px;
 }
 
 .button {
