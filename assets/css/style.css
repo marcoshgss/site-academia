@@ -6,7 +6,7 @@ body {
     background-position: 0px 80px;
 }
 
-.logo {
+.data-content {
     width: 1200px;
     margin: auto;
     height: 100%;
@@ -20,16 +20,33 @@ body {
     height: 30px;
 }
 
-.container-1 .logo {
+.container-1 .data-content {
     display: flex;
     align-items: center;
 }
 
+.section-hearder {
+    margin-top: 50px;
+    height: 650px;
+}
 
 .section-hearder .box-bord{
     height: 500px;
+    width: 500px;
+    border: 2px solid white;
 }
 
+.section-hearder .data-content {
+    display: flex;
+    justify-content: right;
+}
+
+
+.section-highlight {
+    background-color: #33bddb;
+    height: 300px;
+    width: 100%;
+}
 
 
 
