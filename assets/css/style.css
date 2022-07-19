@@ -7,7 +7,7 @@ body {
 }
 
 .data-content {
-    width: 1200px;
+    width: 1150px;
     margin: auto;
     height: 100%;
 }
@@ -48,11 +48,22 @@ body {
     width: 100%;
 }
 
+.section-highlight .box {
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border: 1px solid white;
+}
 
+.section-highlight .data-content {
+    display: flex;
+    justify-content: space-between;
+}
 
-
-
-
+.section-highlight .data-content .box {
+    position: relative;
+    top: -75;
+}
 
 
 
