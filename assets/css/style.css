@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 300px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+
+}
+
+.card-1 {
+    margin: 10px;
+}
+
+.button {
+    height: 40px;
+    width: 80px;
+
+}
+
+
