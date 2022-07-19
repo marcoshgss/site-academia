@@ -1,3 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("/assets/imagens/maxO_TVsaeZNlEunsplashmin2.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px 80px;
+}
+
+.logo {
+    width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+.container-1 {
+    height: 80px;
+    background: white;
+}
+.container-1 .img {
+    height: 30px;
+}
+
+.container-1 .logo {
+    display: flex;
+    align-items: center;
+}
+
+
+.section-hearder .box-bord{
+    height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 * {
     margin: 0;
     padding: 0;
@@ -36,6 +84,4 @@
 .container-imagens .img {
     
 }
-
-
-
+*/
