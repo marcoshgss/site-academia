@@ -103,4 +103,25 @@ body {
 }
 
 
+.primeira-section {
+    background: white;
+    height: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 
+.primeira-section .left {
+    height: 100%;
+    width: 45%;
+}
+
+.primeira-section .right  {
+    background: black;
+    height: 100%;
+    width: 50%;
+}
+
+.primeira-section .data-content {
+    display: flex;
+    justify-content: space-between;
+}
