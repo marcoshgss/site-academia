@@ -116,9 +116,27 @@ body {
 }
 
 .primeira-section .right  {
-    background: black;
+    background: white;
     height: 100%;
     width: 50%;
+}
+
+.primeira-section .right  h1 {
+    font-size: 3rem;
+    color: #33bddb;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.primeira-section .left p, .primeira-section .right p {
+    font-size: 20px;
+}
+
+.primeira-section .right a {
+    color: #33bddb;
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: block;
 }
 
 .primeira-section .data-content {
