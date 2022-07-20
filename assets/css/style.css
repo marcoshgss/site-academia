@@ -4,6 +4,7 @@ body {
     background-image: url("/assets/imagens/maxO_TVsaeZNlEunsplashmin2.jpg");
     background-repeat: no-repeat;
     background-position: 0px 80px;
+    font-family: sans-serif;
 }
 
 .data-content {
@@ -34,6 +35,7 @@ body {
     height: 500px;
     width: 500px;
     border: 2px solid white;
+    color: white;
 }
 
 .section-hearder .data-content {
@@ -51,10 +53,22 @@ body {
 .section-highlight .box {
     background-color: white;
     width: 300px;
-    height: 200px;
+    height: 250px;
     position: relative;
     top: -85px;
     padding: 10px;
+}
+
+.section-highlight .box button {
+    border: 1px solid lightblue;
+    background: transparent;
+    height: 50px;
+    width: 100px;
+    font-size: 14px
+}
+
+.section-highlight .box h1 {
+    font-size: 2rem;
 }
 
 .section-highlight .data-content {
