@@ -152,4 +152,21 @@ body {
     padding-bottom: 60px;
 }
 
-.segunda-section 
+.segunda-section .data-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.segunda-section .data-content .right .subtitle{
+    color: rgb(29, 26, 26);
+}
+
+.segunda-section .data-content .right .title {
+    color: #33bddb;
+    font-size: 2.5rem;
+}
+
+.segunda-section .data-content .right .details {
+    color: white;
+    margin-top: 150px;
+}
