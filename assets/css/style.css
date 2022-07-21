@@ -143,3 +143,13 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+
+.segunda-section {
+    background: #292d33;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.segunda-section 
