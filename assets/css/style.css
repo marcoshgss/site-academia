@@ -216,7 +216,13 @@ body {
     width: 45%;
 }
 
-.terceira-section .data-content .right-1{
+.terceira-section .data-content  .right-1{
     width: 45%;
 }
 
+.terceira-section .data-content .quite .quite-item{
+    background: #33bddb;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
