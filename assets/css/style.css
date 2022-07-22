@@ -203,10 +203,20 @@ body {
 .terceira-section {
     background: white;
     width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .terceira-section .data-content {
-    background-color: red;
-    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.terceira-section .data-content .left-1{
+    width: 45%;
+}
+
+.terceira-section .data-content .right-1{
+    width: 45%;
 }
 
