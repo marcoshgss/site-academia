@@ -199,3 +199,14 @@ body {
 .segunda-section .data-content .right .details .detail-item .cor-3 {
     color: rgb(202, 44, 44);
 }
+
+.terceira-section {
+    background: white;
+    width: 100%;
+}
+
+.terceira-section .data-content {
+    background-color: red;
+    height: 100px;
+}
+
