@@ -231,10 +231,37 @@ body {
     background: #33bddb;
     width: 100%;
     height: 400px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .quarta-section .data-content {
     display: flex;
-    color: yellow;
-
+    
 }
+
+.quarta-section .data-content .aspa {
+    color: white;
+    font-size: 3.5rem;
+}
+
+.quarta-section .data-content .text-aspas {
+    color: white;
+    font-size: 45px;
+    margin-top: 80px;
+    margin-left: 10px;
+    
+}
+
+.quarta-section .data-content .aspa-2 {
+    color: white;
+    font-size: 4.5rem;
+    margin-top: 19rem;
+    margin-right: 175px;
+}
+
+
+
+
+
+
