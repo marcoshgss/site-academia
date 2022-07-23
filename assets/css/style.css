@@ -226,3 +226,15 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.quarta-section {
+    background: #33bddb;
+    width: 100%;
+    height: 400px;
+}
+
+.quarta-section .data-content {
+    display: flex;
+    color: yellow;
+
+}
