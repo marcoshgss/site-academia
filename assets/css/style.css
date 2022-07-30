@@ -266,16 +266,20 @@ body {
 .quinta-section {
     background: white;
     width: 100%;
-    height: 400px;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    height: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
 .quinta-section .data-content {
     display: flex;
     justify-content: space-between;
-    
+}
+
+.quinta-section .data-content .detail-item-2 {
+    height: 100%;
+    width: 50%;
 }
 
 .quinta-section .data-content .mulher-na-esteira-left-2 {
@@ -283,11 +287,27 @@ body {
     width: 45%;
 } 
 
-.quinta-section .data-content .detail-item-2 .caixa-1-right {
-    background: #33bddb;
-    width: 45%;
+.quinta-section .data-content .um .caixa-1-right {
+    width: 50%
+    
 }
 
+.quinta-section .data-content .um .caixa-2-right{
+    background: #33bddb;
+    width: 35%;
+}
+
+.quinta-section .data-content .detail-item-2 .um {
+    background: red;
+    display: flex;
+    margin-top: 20%;
+    justify-content: space-between;
+    height: 49%;
+}
+
+.quinta-section .data-content .detail-item-2 p {
+    font-size: 20px
+}
 
 
 
