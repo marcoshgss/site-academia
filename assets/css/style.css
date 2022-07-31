@@ -261,8 +261,6 @@ body {
     margin-right: 94px;
 }
 
-
-
 .quinta-section {
     background: white;
     width: 100%;
@@ -271,7 +269,6 @@ body {
     padding-bottom: 50px;
 }
 
-
 .quinta-section .data-content {
     display: flex;
     justify-content: space-between;
@@ -279,7 +276,7 @@ body {
 
 .quinta-section .data-content .detail-item-2 {
     height: 100%;
-    width: 50%;
+    width: 51%;
 }
 
 .quinta-section .data-content .mulher-na-esteira-left-2 {
@@ -288,13 +285,12 @@ body {
 } 
 
 .quinta-section .data-content .um .caixa-1-right {
-    width: 50%
-    
+    width: 51%
 }
 
 .quinta-section .data-content .um .caixa-2-right {
     background: #33bddb;
-    width: 35%;
+    width: 43%;
 }
 
 .quinta-section .data-content .um .caixa-2-right h3 {
@@ -305,16 +301,24 @@ body {
 .quinta-section .data-content .um .caixa-2-right p {
     color: white;
     margin-left: 20px;
+    font-size: 17px;
+}
+
+.quinta-section .data-content .um .caixa-2-right .icons {
+    margin-top: -8px;
+}
+
+.quinta-section .data-content .um .caixa-2-right i {
+    color: white; 
+    margin-left: 20px;
 }
 
 .quinta-section .data-content .detail-item-2 .um {
- 
     display: flex;
     margin-top: 36%;
     justify-content: space-between;
-    height: 37%;
+    height: 25%;
 }
-
 
 .quinta-section .data-content .detail-item-2 p {
     font-size: 20px
