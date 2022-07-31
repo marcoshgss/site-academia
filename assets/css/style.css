@@ -292,13 +292,21 @@ body {
     
 }
 
-.quinta-section .data-content .um .caixa-2-right{
+.quinta-section .data-content .um .caixa-2-right {
     background: #33bddb;
     width: 35%;
 }
 
+.quinta-section .data-content .um .caixa-2-right h1 {
+    
+}
+
+.quinta-section .data-content .um .caixa-2-right p {
+
+}
+
 .quinta-section .data-content .detail-item-2 .um {
-    background: red;
+ 
     display: flex;
     margin-top: 20%;
     justify-content: space-between;
