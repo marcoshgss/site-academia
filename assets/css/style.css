@@ -297,20 +297,22 @@ body {
     width: 35%;
 }
 
-.quinta-section .data-content .um .caixa-2-right h1 {
-    
+.quinta-section .data-content .um .caixa-2-right h3 {
+    color: white;
+    margin-left: 20px;
 }
 
 .quinta-section .data-content .um .caixa-2-right p {
-
+    color: white;
+    margin-left: 20px;
 }
 
 .quinta-section .data-content .detail-item-2 .um {
  
     display: flex;
-    margin-top: 20%;
+    margin-top: 36%;
     justify-content: space-between;
-    height: 49%;
+    height: 37%;
 }
 
 
