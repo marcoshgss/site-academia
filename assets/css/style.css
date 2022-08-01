@@ -334,8 +334,23 @@ body {
     font-weight: bold;
     margin-bottom: 20px;
     display: block;
+}
+
+.sexta-section {
+    background: #333333;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  
+}
+
+.sexta-section .data-content {
+    display: flex;
+    justify-content: center; 
     
 }
 
-
-
+.icons-finais {
+    font-size: 35px;
+    color: white;
+}
